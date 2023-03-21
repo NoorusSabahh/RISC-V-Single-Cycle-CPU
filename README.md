@@ -1,5 +1,5 @@
 # RISC-V Single Cycle CPU
-
+Taken from https://github.com/T-K-233/RISC-V-Single-Cycle-CPU
 ![Cover Image](cover.jpg)
 
 ---
@@ -34,4 +34,4 @@ The software [Logisim-evoluion](https://github.com/reds-heig/logisim-evolution) 
 
 This project is under GNU GENERAL PUBLIC LICENSE. Feel free to redistribute it and/or modify it under the terms of the GNU General Public License.
 
-This was taken from https://github.com/T-K-233/RISC-V-Single-Cycle-CPU
+
